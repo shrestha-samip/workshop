@@ -1,3 +1,3 @@
 #git/github workshop
 Samip Shrestha
-3 idiotsg
+3 idiots
